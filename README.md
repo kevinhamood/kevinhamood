@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sweiti</h1>
 
-</br>
-</br>
+
 
 <h1 align="center">Software Developer</h1>
 
