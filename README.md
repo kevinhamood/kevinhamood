@@ -15,7 +15,7 @@
 
 
 
-<img src="https://myoctocat.com/assets/images/base-octocat.svg" align="center">
+<p align="center"><img src="https://myoctocat.com/assets/images/base-octocat.svg" align="center"></p>
 
 </br>
 </br>
