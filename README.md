@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sweiti</h1>
 
 
-<h3 align="center" style="font-size:300px">Software Developer</h3>
+<!--<h3 align="center" style="font-size:300px">Software Developer</h3>-->
 
 
 </br>
@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinhamood&label=Profile%20views&color=0e75b6&style=flat" alt="kevinhamood" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinhamood" alt="kevinhamood" /></a> </p>
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+<p align="center">![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)</p>
 
 
 </br>
