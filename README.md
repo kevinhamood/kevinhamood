@@ -15,10 +15,6 @@
 <img src="Welcome to my profile (4)-Photoroom.png" width="100%"/>
 
 
-
-
-
-</br>
 </br>
 
 <!--
