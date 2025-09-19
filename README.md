@@ -52,7 +52,7 @@ My name is Mohammad Sweiti, a Software developer with 0 years of working experie
 <h1 align="left">Stats</h1>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinhamood" alt="kevinhamood" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinhamood" alt="kevinhamood" /></a> </p>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinhamood&show_icons=true&locale=en" alt="kevinhamood" /></p>
