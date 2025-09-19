@@ -39,7 +39,7 @@ My name is Mohammad Sweiti, a Software developer with 0 years of working experie
 </br>
 </br>
 
-<h1 align="left">Languages and Tools</h1>
+<h1 align="center">Languages and Tools</h1>
 
 </br>
 </br>
@@ -52,7 +52,7 @@ My name is Mohammad Sweiti, a Software developer with 0 years of working experie
 </br>
 </br>
 
-<h1 align="left">Stats</h1>
+<h1 align="center">Stats</h1>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinhamood" alt="kevinhamood" /></a> </p>
