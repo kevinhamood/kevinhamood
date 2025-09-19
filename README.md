@@ -28,7 +28,7 @@
 </br>
 </br>
 
-<h1 align="center">Some stats</h1>
+<h1 align="center">Stats</h1>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinhamood" alt="kevinhamood" /></a> </p>
