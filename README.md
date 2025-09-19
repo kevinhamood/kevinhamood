@@ -42,7 +42,7 @@ My name is Mohammad Sweiti, a Software developer with 0 years of working experie
 </br>
 
 
-<img src="Welcome to my profile (9)-Photoroom.png" align="center" />
+<img src="Welcome to my profile (9)-Photoroom.png" width="100%" align="center" />
 
 
 
