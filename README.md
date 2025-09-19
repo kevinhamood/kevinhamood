@@ -11,7 +11,6 @@
 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinhamood&label=Profile%20views&color=0e75b6&style=flat" alt="kevinhamood" /> </p>-->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinhamood" alt="kevinhamood" /></a> </p>
 
 <!--<p align="center">![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)</p>-->
 
@@ -33,6 +32,10 @@
 </br>
 </br>
 
+<h1 align="center">Some stats</h1>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinhamood" alt="kevinhamood" /></a> </p>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinhamood&show_icons=true&locale=en" alt="kevinhamood" /></p>
