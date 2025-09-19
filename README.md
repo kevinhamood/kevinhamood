@@ -23,7 +23,7 @@
 </br>
 
 
-<img src="Welcome to my profile (6)-Photoroom.png" width="100%"/>
+<img src="Welcome to my profile (6)-Photoroom.png" width="100%" align="left" />
 
 <img align="left" src="Welcome to my profile (6)-Photoroom.png"/>
 
