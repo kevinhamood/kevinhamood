@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mohammad Sweiti</h1>
+<!--<h1 align="center">Hi 👋, I'm Mohammad Sweiti</h1>-->
 
 
 <!--<h3 align="center" style="font-size:300px">Software Developer</h3>-->
 
 
-</br>
-</br>
-</br>
+
 
 
 
@@ -18,9 +16,7 @@
 
 
 
-</br>
-</br>
-</br>
+
 
 <h1 align="center">Languages and Tools</h1>
 
