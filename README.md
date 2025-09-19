@@ -24,7 +24,7 @@
 
 
 
-<img align="left" src="Welcome to my profile (6)-Photoroom.png" width="900"/>
+<img align="left" src="Welcome to my profile (6)-Photoroom.png"/>
 
 
 </br>
