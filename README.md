@@ -24,7 +24,7 @@
 </br>
 
 
-<img align="left" src="Welcome to my profile (6)-Photoroom.png"/>
+<img align="left" src="Welcome to my profile (6)-Photoroom.png">
 
 
 Software developer with 2+ years of experience in developing full-stack applications. I use React Native, React.js, HTML, and CSS for front-end and Node.js, PHP, and Spring Boot for back-end. Throughout my educational career and as a side hustle, I developed numerous full-stack applications, as well as scalable RESTful APIs, enhancing my knowledge implementation and improving my skill utilization significantly. These projects were well-documented, showcasing my efficiency in analyzing business requirements and providing such outstanding results.
