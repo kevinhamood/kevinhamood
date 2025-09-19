@@ -13,7 +13,10 @@
 <!--<p align="center">![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)</p>-->
 
 
-<img src="Welcome to my profile (4)-Photoroom.png" width="120%"/>
+<img src="Welcome to my profile (4)-Photoroom.png" width="100%"/>
+
+
+
 
 
 </br>
@@ -21,6 +24,15 @@
 </br>
 
 
+<img src="Welcome to my profile (5)-Photoroom.png" width="100%" align="left" />
+
+
+Software developer with 2+ years of experience in developing full-stack applications. I use React Native, React.js, HTML, and CSS for front-end and Node.js, PHP, and Spring Boot for back-end. Throughout my educational career and as a side hustle, I developed numerous full-stack applications, as well as scalable RESTful APIs, enhancing my knowledge implementation and improving my skill utilization significantly. These projects were well-documented, showcasing my efficiency in analyzing business requirements and providing such outstanding results.
+
+
+</br>
+</br>
+</br>
 
 <h1 align="center">Languages and Tools</h1>
 
