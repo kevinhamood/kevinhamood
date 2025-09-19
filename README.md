@@ -26,7 +26,7 @@
 
 </br>
 
-### Hi 👋
+### Hi 👋,
 My name is Mohammad Sweiti, a Software developer with 0 years of working experience and 2+ years of practical experience in developing such applications. I use React Native, React.js, HTML, and CSS for front-end and Node.js, PHP, and Spring Boot for back-end. Throughout my educational career and as a side hustle, I developed numerous full-stack applications, as well as scalable RESTful APIs, enhancing my knowledge implementation and improving my skill utilization significantly. These projects were well-documented, showcasing my efficiency in analyzing business requirements and providing such outstanding results.
 
 
