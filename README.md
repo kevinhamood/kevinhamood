@@ -41,8 +41,7 @@ My name is Mohammad Sweiti, a Software developer with 3+ years of practical know
 
 <h1 align="center">Technologies</h1>
 
-</br>
-</br>
+
 </br>
 
 
@@ -57,8 +56,7 @@ My name is Mohammad Sweiti, a Software developer with 3+ years of practical know
 
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinhamood" alt="kevinhamood" /></a> </p> -->
-</br>
-</br>
+
 </br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinhamood&show_icons=true&locale=en" alt="kevinhamood" /></p>
