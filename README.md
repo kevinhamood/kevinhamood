@@ -28,7 +28,7 @@
 
 <h3 align="center">Hi 👋</h3>
 <p>
-My name is Mohammad Sweiti, a Software developer with 3+ years of practical knowledge in developing such applications. I use React Native, React.js, HTML, and CSS for front-end and Node.js, PHP, and Spring Boot for back-end. Throughout my educational career and as a side hustle, I developed numerous full-stack applications, as well as scalable RESTful APIs, enhancing my knowledge implementation and improving my skill utilization significantly. These projects were well-documented, showcasing my efficiency in analyzing business requirements as well as providing such outstanding results.</p>
+My name is Mohammad Sweiti, a Software developer with 3+ years of practical experience in developing such applications. I use React Native, React.js, HTML, and CSS for front-end and Node.js, PHP, and Spring Boot for back-end. Throughout my educational career and as a side hustle, I developed numerous full-stack applications, as well as scalable RESTful APIs, enhancing my knowledge implementation and improving my skill utilization significantly. These projects were well-documented, showcasing my efficiency in analyzing business requirements as well as providing such outstanding results.</p>
 
 
 
